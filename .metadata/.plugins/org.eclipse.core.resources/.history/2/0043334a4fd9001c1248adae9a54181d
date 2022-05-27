@@ -1,0 +1,11 @@
+
+
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+	Customer: ${ customer.firstName } ${ customer.lastName }
+</body>
+</html>

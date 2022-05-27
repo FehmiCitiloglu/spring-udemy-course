@@ -1,0 +1,10 @@
+package com.luv2code.hibernate.demo.entity;
+
+import org.hibernate.annotations.Entity;
+import org.hibernate.annotations.Table;
+
+@Entity
+@Table(name = "student")
+public class Student {
+
+}

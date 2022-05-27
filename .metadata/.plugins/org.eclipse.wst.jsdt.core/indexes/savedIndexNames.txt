@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/fehmicitiloglu/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+826927949.index
+557173393.index
+105702802.index
+851988457.index
+2500872109.index
+407621816.index

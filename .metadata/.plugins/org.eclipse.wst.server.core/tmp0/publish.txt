@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon May 23 00:49:00 TRT 2022
+org.eclipse.jst.jee.server\:/binary\:/Users/fehmicitiloglu/eclipse-workspace/spring-mvc-demo/WebContent/WEB-INF/lib/spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar
+org.eclipse.jst.jee.server\:/binary\:/Users/fehmicitiloglu/eclipse-workspace/spring-mvc-demo/WebContent/WEB-INF/lib/spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar
