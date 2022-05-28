@@ -1,9 +1,0 @@
-<DOCTYPE html>
-<html>
-	<head>
-		<title>Hollow World - Input Form</title>
-	</head>
-	<body>
-		<form action="processForm"></form>
-	</body>
-</html>
